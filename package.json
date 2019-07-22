@@ -1,0 +1,15 @@
+{
+    "name": "@alessiodf/block-propagator",
+    "version": "1.0.0",
+    "description": "Block Propagator for Ark-powered blockchains",
+    "homepage": "https://github.com/alessiodf/block-propagator",
+    "main": "lib/index.js",
+    "author": "alessiodf",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "path": "^0.12.7",
+        "pluralize": "^8.0.0",
+        "lodash.shuffle": "^4.2.0",
+        "lodash.take": "^4.1.1"
+    }
+}

@@ -1,6 +1,6 @@
 {
     "name": "@alessiodf/block-propagator",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Block Propagator for Ark-powered blockchains",
     "homepage": "https://github.com/alessiodf/block-propagator",
     "main": "lib/index.js",
